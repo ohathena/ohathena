@@ -1,24 +1,5 @@
-# Hi 👋 I'm Trisha
+👋 Hi, I'm Trisha Khajuria
 
-💻 Full Stack Developer
-☕ Java Developer
-🚀 Building projects that solve real problems
+Full Stack Developer | Java Programmer | AI Enthusiast
 
-🌱 Currently learning
-- System Design
-- Next.js
-- DevOps
-
-📫 Reach me
-LinkedIn
-Email
-Portfolio
-
-□□□□□□□□
-■■■■■■■■■■
-🐍────────>
-□□□□□□□□
-
-👀 Visitors
-
-15324
+Animated typing texts
