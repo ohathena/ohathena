@@ -1,5 +1,9 @@
-👋 Hi, I'm Trisha Khajuria
+<h1 align="center">Hi, I'm Trisha Khajuria</h1>
 
-Full Stack Developer | Java Programmer | AI Enthusiast
+<h3 align="center">
+  Full Stack Developer • Java Programmer • MERN • AI
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Building+Cool+Projects;Always+Learning+Something+New)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=9ef01a&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Programmer;Building+Impactful+Projects;Always+Learning+Something+New;Just+curious" />
+</p>
