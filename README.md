@@ -16,10 +16,10 @@
 I'm a full stack developer who builds complete web products, from the database and API to the interface people use. My core stack is **Java** and the **MERN stack**, and I'm growing into **AI/ML**. I care about clean architecture, secure defaults, and shipping things that work in production.
 
 - 🔭 Currently building **[ParamPara](https://parampara-web.onrender.com)**, a private family heritage platform
-- 🌱 Learning: ✏️ *e.g. system design, Spring Boot, LLM apps*
-- 🎓 ✏️ *e.g. B.Tech in Computer Science, College Name (2026)*
+- 🌱 Learning: system design, Spring Boot, LLM apps
+- 🎓  B.E in Computer Science, Chitkara University (2028)
 - 💬 Ask me about: REST API design, React, MongoDB, Java and DSA
-- ⚡ Fun fact: ✏️ *one line about you*
+
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -42,7 +42,7 @@ I'm a full stack developer who builds complete web products, from the database a
   <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,git,github,postman,vscode" alt="AI and tools" />
 </p>
 
-<sub>✏️ Edit the <code>i=</code> lists to match what you actually use (all icons: skillicons.dev).</sub>
+
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -60,13 +60,7 @@ A private platform where families build their family tree and preserve stories, 
 
 **[🌐 Live demo](https://parampara-web.onrender.com)** &nbsp;|&nbsp; **[💻 Code](https://github.com/ohathena/ParamPara-Family-Memory-Reservoir)**
 
-### ✏️ [Project 2 name](https://github.com/ohathena/YOUR_REPO)
-✏️ One sentence on what it does and who it is for.
 
-- ✏️ The most impressive thing you built in it
-- ✏️ A result: users, accuracy, speed, award
-
-`✏️ Tech` `✏️ Tech` · **[Code](https://github.com/ohathena/YOUR_REPO)**
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -88,5 +82,5 @@ A private platform where families build their family tree and preserve stories, 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <sub>Open to full stack and software engineering roles · ✏️ City, India · Reach me at ✏️ YOUR_EMAIL</sub>
+  <sub>Open to full stack and software engineering roles · Reach me at trishakhajuria887@gmail.com</sub>
 </p>
