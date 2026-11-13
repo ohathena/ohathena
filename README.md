@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="Portfolio" /></a>
-  <a href="https://YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-EC4899?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/trisha-khajuria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:trishakhajuria887@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+ 
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
