@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="8" viewBox="0 0 900 8" role="presentation">
+  <style>.m{animation:slide 6s linear infinite}@keyframes slide{to{transform:translateX(-900px)}}@media (prefers-reduced-motion:reduce){.m{animation:none}}</style>
+  <defs><linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".25" stop-color="#8b5cf6"/><stop offset=".5" stop-color="#ec4899"/><stop offset=".75" stop-color="#f59e0b"/><stop offset="1" stop-color="#22d3ee"/>
+  </linearGradient><clipPath id="c"><rect y="2" width="900" height="4" rx="2"/></clipPath></defs>
+  <g clip-path="url(#c)"><g class="m"><rect y="2" width="900" height="4" fill="url(#g)"/><rect x="900" y="2" width="900" height="4" fill="url(#g)"/></g></g>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Trisha Khajuria, Full Stack Developer">
+  <style>
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace; }
+    .name { font-size: 54px; font-weight: 800; fill: #ffffff; letter-spacing: -0.5px; }
+    .title { font-size: 21px; font-weight: 600; fill: #e2e8f0; }
+    .chip { font-size: 15px; font-weight: 600; fill: #e2e8f0; }
+    .role { font-size: 17px; font-weight: 700; opacity: 0; animation: cycle 9s infinite; }
+    .r2 { animation-delay: 3s; } .r3 { animation-delay: 6s; }
+    .blob { filter: url(#blur); mix-blend-mode: screen; }
+    .b1 { animation: drift1 14s ease-in-out infinite alternate; }
+    .b2 { animation: drift2 17s ease-in-out infinite alternate; }
+    .b3 { animation: drift3 12s ease-in-out infinite alternate; }
+    .b4 { animation: drift1 19s ease-in-out infinite alternate-reverse; }
+    .fade { opacity: 0; animation: in .9s ease-out forwards; }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .4s; } .d3 { animation-delay: .7s; }
+    .dot { animation: pulse 2.2s ease-in-out infinite; }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @keyframes cycle { 0% { opacity: 0; } 3%, 31% { opacity: 1; } 34%, 100% { opacity: 0; } }
+    @keyframes drift1 { from { transform: translate(0,0) scale(1); } to { transform: translate(120px,30px) scale(1.15); } }
+    @keyframes drift2 { from { transform: translate(0,0) scale(1.1); } to { transform: translate(-140px,-20px) scale(.9); } }
+    @keyframes drift3 { from { transform: translate(0,0); } to { transform: translate(-80px,40px); } }
+    @keyframes pulse { 0%, 100% { opacity: .4; } 50% { opacity: 1; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes spin { to { stroke-dashoffset: -1200; } }
+    .border { animation: spin 8s linear infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .fade { opacity: 1; } .r1 { opacity: 1; } }
+  </style>
+  <defs>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+    <linearGradient id="txt" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".35" stop-color="#8b5cf6"/><stop offset=".7" stop-color="#ec4899"/><stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="under" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".33" stop-color="#8b5cf6"/><stop offset=".66" stop-color="#ec4899"/><stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="900" height="250" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="250" fill="#0b1020"/>
+    <circle class="blob b1" cx="640" cy="40" r="120" fill="#8b5cf6" opacity=".8"/>
+    <circle class="blob b2" cx="820" cy="210" r="120" fill="#ec4899" opacity=".7"/>
+    <circle class="blob b3" cx="560" cy="230" r="100" fill="#06b6d4" opacity=".65"/>
+    <circle class="blob b4" cx="120" cy="-20" r="110" fill="#f59e0b" opacity=".4"/>
+    <rect width="900" height="250" fill="#0b1020" opacity=".12"/>
+  </g>
+  <rect class="border" x="1.5" y="1.5" width="897" height="247" rx="19" fill="none" stroke="url(#rim)" stroke-width="2.5" stroke-dasharray="900 300"/>
+
+  <g transform="translate(56,0)">
+    <g class="fade d1">
+      <rect x="0" y="44" width="212" height="30" rx="15" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".15"/>
+      <circle class="dot" cx="18" cy="59" r="5" fill="#34d399"/>
+      <text x="32" y="64" class="sans chip">Open to opportunities</text>
+    </g>
+    <text x="0" y="136" class="sans name fade d2">Trisha Khajuria</text>
+    <rect x="2" y="150" width="120" height="5" rx="2.5" fill="url(#under)" class="fade d2"/>
+    <g class="fade d3">
+      <text x="0" y="188" class="sans title">Full Stack Developer</text>
+      <text x="0" y="218" class="mono role r1" fill="url(#txt)">&gt; Java Programming</text>
+      <text x="0" y="218" class="mono role r2" fill="url(#txt)">&gt; MERN Stack</text>
+      <text x="0" y="218" class="mono role r3" fill="url(#txt)">&gt; AI / ML</text>
+    </g>
+  </g>
+
+  <!-- floating code window on the right -->
+  <g transform="translate(610,62)"><g class="fade d3">
+    <rect width="240" height="128" rx="14" fill="#0b1020" fill-opacity=".72" stroke="#ffffff" stroke-opacity=".14"/>
+    <circle cx="20" cy="20" r="5" fill="#f87171"/><circle cx="36" cy="20" r="5" fill="#fbbf24"/><circle cx="52" cy="20" r="5" fill="#34d399"/>
+    <text x="20" y="54" class="mono" font-size="13"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> me = {</tspan></text>
+    <text x="36" y="74" class="mono" font-size="13"><tspan fill="#67e8f9">stack</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#fbbf24">"MERN"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+    <text x="36" y="94" class="mono" font-size="13"><tspan fill="#67e8f9">loves</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#f472b6">"Java"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+    <text x="20" y="114" class="mono" font-size="13" fill="#e2e8f0">}<tspan class="caret" fill="#22d3ee">▍</tspan></text>
+  </g></g>
+</svg>
