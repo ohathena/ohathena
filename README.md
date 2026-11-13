@@ -25,15 +25,15 @@
 ```yaml
 player:      Trisha Khajuria
 class:       Full Stack Developer
-level:       ✏️ e.g. B.Tech CSE · Final Year
-guild:       ✏️ your college or company
-home_base:   ✏️ your city, India
+level:        B.E CSE · Third Year
+guild:        Chitkara University
+home_base:   Himachal Pradesh, India
 main_weapon: Java
 combo:       MongoDB + Express + React + Node
 side_quest:  AI / ML
 now_playing: ParamPara (family heritage platform)
-next_level:  ✏️ e.g. System Design · DSA · Next.js
-fun_fact:    ✏️ something only you would say
+next_level:  ML
+fun_fact:    i like cats and coding stuff
 ```
 
 </td>
@@ -49,7 +49,7 @@ DATABASE  ▰▰▰▰▰▰▱▱▱▱  60
 AI / ML   ▰▰▰▰▰▱▱▱▱▱  50
 COFFEE    ▰▰▰▰▰▰▰▰▰▰  MAX
 ```
-<sub>✏️ adjust the bars to match you</sub>
+
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ COFFEE    ▰▰▰▰▰▰▰▰▰▰  MAX
   <b>🗺️ Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&theme=dark" alt="tools" />
 </p>
-<p align="center"><sub>✏️ remove anything you don't use (full list: skillicons.dev)</sub></p>
+
 
 <!-- ======================= STAGE 3 ======================= -->
 <img src="assets/stage-3.svg" width="100%" alt="Stage 3: Quests completed" />
@@ -85,15 +85,15 @@ COFFEE    ▰▰▰▰▰▰▰▰▰▰  MAX
   </a>
   <!-- ✏️ second quest: replace YOUR_REPO -->
   <a href="https://github.com/ohathena/YOUR_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohathena&repo=YOUR_REPO&bg_color=0b0b16&title_color=00e5ff&text_color=e6e6e6&icon_color=ffd60a&border_color=00e5ff" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohathena&repo=ohathena&bg_color=0b0b16&title_color=00e5ff&text_color=e6e6e6&icon_color=ffd60a&border_color=00e5ff" alt="Project 2" />
   </a>
 </p>
 
 | 🕹️ Quest | 🎯 Mission | 🧰 Loadout | 🏆 Loot |
 |---|---|---|---|
 | **[ParamPara](https://parampara-web.onrender.com)** | Private family tree and memory archive with roles, comments and photo uploads | React · Node · Express · MongoDB · Tailwind | 53 tests · deployed for ₹0/month |
-| ✏️ **Project 2** | ✏️ one line about what it does | ✏️ tech | ✏️ result / users / award |
-| ✏️ **Project 3** | ✏️ | ✏️ | ✏️ |
+<!-- | ✏️ **Project 2** | ✏️ one line about what it does | ✏️ tech | ✏️ result / users / award |
+| ✏️ **Project 3** | ✏️ | ✏️ | ✏️ | -->
 
 <!-- ======================= STAGE 4 ======================= -->
 <img src="assets/stage-4.svg" width="100%" alt="Stage 4: High scores" />
@@ -114,14 +114,14 @@ COFFEE    ▰▰▰▰▰▰▰▰▰▰  MAX
 </p>
 
 <!-- ======================= CONTINUE ======================= -->
-<img src="assets/continue.svg" width="100%" alt="Continue? Join player 2" />
+<img src="assets/continue.svg" width="100%" alt="Continue? Join player 1" />
 
 <p align="center">
   <!-- ✏️ replace the links -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0b0b16?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0b0b16?style=for-the-badge&logo=gmail&logoColor=ff2e88" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0b0b16?style=for-the-badge&logo=googlechrome&logoColor=9ef01a" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0b0b16?style=for-the-badge&logo=leetcode&logoColor=ffd60a" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/trisha-khajuria/"><img src="https://img.shields.io/badge/LinkedIn-0b0b16?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
+  <a href="mailto:trishakhajuria887@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b16?style=for-the-badge&logo=gmail&logoColor=ff2e88" alt="Email" /></a>
+ 
+  <a href="https://leetcode.com/u/FuBuKi76/"><img src="https://img.shields.io/badge/LeetCode-0b0b16?style=for-the-badge&logo=leetcode&logoColor=ffd60a" alt="LeetCode" /></a>
 </p>
 
 <p align="center">
